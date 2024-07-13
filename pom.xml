@@ -17,8 +17,8 @@
     </properties>
     <distributionManagement>
         <repository>
-            <id>nexus-snapshots</id>
-            <url>http://localhost:8081</url>
+            <id>maven-snapshots</id>
+            <url>http://localhost:8081/repository/maven-snapshots/</url>
         </repository>
     </distributionManagement>
     <build>
